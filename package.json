@@ -10,6 +10,7 @@
     "serve": "nuxt serve"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
     "firebase": "^7.16.1",
     "nuxt": "^2.13.0",
     "vuex-persistedstate": "^3.0.1"
